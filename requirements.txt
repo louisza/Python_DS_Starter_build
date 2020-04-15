@@ -1,0 +1,7 @@
+pymssql==2.1.4
+numpy
+pandas
+scipy
+scikit-learn
+xgboost==0.81
+sqlalchemy
