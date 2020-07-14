@@ -1,6 +1,6 @@
 xgboost==0.90
 swifter==0.301
-scikit-learn==0.21.3
+scikit-learn==0.22.1
 numpy==1.18.2
 hyperopt==0.1.2
 geopandas==0.7.0
